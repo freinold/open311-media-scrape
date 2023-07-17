@@ -1,0 +1,9 @@
+city,request_url,request_type
+munich,https://machmuenchenbesser.de/georeport/v2/requests.json,1
+bonn,https://anliegen.bonn.de/georeport/v2/requests.json,0
+rostock,https://www.klarschiff-hro.de/backoffice/citysdk/requests.json,1
+schwerin,https://www.klarschiff-sn.de/backoffice/citysdk/requests.json,1
+annaberg-buchholz,https://anliegen.annaberg-buchholz.de/georeport/v2/requests.json,0
+siegberg,https://anliegen.siegburg.de/georeport/v2/requests.json,0
+cologne,https://sags-uns.stadt-koeln.de/georeport/v2/requests.json,0
+zurich,https://www.zueriwieneu.ch/open311/v2/requests.json?jurisdiction_id=zurich&status=closed,2
